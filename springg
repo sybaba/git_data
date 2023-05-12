@@ -1,0 +1,13 @@
+简化
+
+IOC
+AOP 事务处理
+
+框架整合
+  mybatis
+  
+
+WEB  websocket  servlet   web   portlet
+data access    数据访问    data inegration 数据集成   JDBc ORM  OXM   JMS    transactions 事务
+AOP 面向切面编程   Aspects  aop思想实现
+core containerr  核心容器   beans  core context  SpEL
